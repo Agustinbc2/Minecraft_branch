@@ -140,25 +140,55 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
   "create:root": {
     "criteria": {
       "0": "2024-08-25 20:09:36 +0000"
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
+    "criteria": {
+      "fried_egg": "2024-08-25 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "weaponmaster:parts/root": {
+    "criteria": {
+      "crafting_table": "2024-08-25 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg_from_smoking": {
+    "criteria": {
+      "fried_egg": "2024-08-25 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/underwater_upgrade": {
+    "criteria": {
+      "has_sand": "2024-08-25 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
+    "criteria": {
+      "has_egg": "2024-08-25 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-08-25 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/potions": {
+    "criteria": {
+      "has_item": "2024-08-25 20:09:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
     "criteria": {
       "fried_egg": "2024-08-25 20:09:36 +0000"
     },
@@ -182,12 +212,6 @@
     },
     "done": true
   },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
   "iceandfire:iceandfire/root": {
     "criteria": {
       "tick": "2024-08-25 20:09:37 +0000"
@@ -199,72 +223,6 @@
       "WDA": "2024-08-25 20:09:37 +0000"
     },
     "done": true
-  },
-  "weaponmaster:parts/root": {
-    "criteria": {
-      "crafting_table": "2024-08-25 20:09:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/using/shield": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:09:39 +0000"
-    },
-    "done": false
-  },
-  "farmersdelight:recipes/food/fried_egg_from_smoking": {
-    "criteria": {
-      "fried_egg": "2024-08-25 20:09:36 +0000"
-    },
-    "done": true
-  },
-  "rats:recipes/misc/upgrades/underwater_upgrade": {
-    "criteria": {
-      "has_sand": "2024-08-25 20:09:36 +0000"
-    },
-    "done": true
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
   },
   "rats:root": {
     "criteria": {
@@ -284,9 +242,9 @@
     },
     "done": true
   },
-  "incendium:technical/give_ghastling": {
+  "incendium:technical/using/shield": {
     "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
+      "log_spam_fixer": "2024-08-25 20:09:39 +0000"
     },
     "done": false
   },
@@ -296,35 +254,11 @@
     },
     "done": false
   },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2024-08-25 20:12:25 +0000"
-    },
-    "done": false
-  },
   "incendium:technical/using/ragnarok": {
     "criteria": {
       "log_spam_fixer": "2024-08-25 20:09:39 +0000"
     },
     "done": false
-  },
-  "rats:recipes/misc/upgrades/chicken_mount_upgrade": {
-    "criteria": {
-      "has_egg": "2024-08-25 20:09:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2024-08-25 20:09:36 +0000"
-    },
-    "done": true
-  },
-  "mca:recipes/misc/potions": {
-    "criteria": {
-      "has_item": "2024-08-25 20:09:36 +0000"
-    },
-    "done": true
   },
   "incendium:technical/using/trailblazer": {
     "criteria": {
@@ -332,9 +266,39 @@
     },
     "done": false
   },
-  "farmersdelight:recipes/food/fried_egg": {
+  "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "fried_egg": "2024-08-25 20:09:36 +0000"
+      "minecraft:zombified_piglin": "2024-08-25 20:41:02 +0000"
+    },
+    "done": false
+  },
+  "rats:recipes/misc/upgrades/dj_upgrade": {
+    "criteria": {
+      "has_disc": "2024-08-25 20:43:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dog_food": {
+    "criteria": {
+      "has_any_ingredient": "2024-08-25 20:41:13 +0000"
+    },
+    "done": true
+  },
+  "rats:recipes/misc/upgrades/undead_upgrade": {
+    "criteria": {
+      "has_flesh": "2024-08-25 20:41:13 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh": {
+    "criteria": {
+      "has_rotten_flesh": "2024-08-25 20:41:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombified_piglin": "2024-08-25 20:41:02 +0000"
     },
     "done": true
   },
